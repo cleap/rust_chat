@@ -5,3 +5,4 @@ authors = ["cleap <cleapdev@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+mio = { git = "https://github.com/carllerche/mio" }
